@@ -137,7 +137,7 @@ Errors: `AirliftError`, `AirTrafficSyncRejected`. Constants: `TESTED_BUILDS`,
 
 ## Notes
 
-- Only physical iPhones are supported; verified builds are in `TESTED_BUILDS`,
+- Verified builds are in `TESTED_BUILDS`,
   other builds are warned about but not blocked.
 - The device must be unlocked and trust this computer; otherwise the ATC
   session is rejected.
