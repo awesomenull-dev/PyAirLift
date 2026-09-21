@@ -1,5 +1,5 @@
 # PyAirLift
-Cross-platform airlift implmentation
+Cross-platform airlift implementation
 # usage
 placeholder
 # credits
